@@ -1,6 +1,6 @@
 # Color-page-splitter
 splits pdf/word document pages according to presence of color images/text in pages. suitable for separating jobs for color and B/W printer
-📄 PrintSplitter Portable App
+(Exe might not work; try using the python version)
 =============================
 
 This folder contains the fully portable version of the PrintSplitter tool.
